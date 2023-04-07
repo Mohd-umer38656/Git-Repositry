@@ -27,6 +27,7 @@ int main()
     cout<<endl;
 
     cout<<"Enter the key : ";
+    int key;
     cin >> key;
     //calling the search funciton
     int ans = linearSearch(arr,size,key);
