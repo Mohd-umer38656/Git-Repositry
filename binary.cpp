@@ -22,7 +22,7 @@ int main()
         cout<<arr[i]<<" ";
     }
     cout<<endl;
-    int key;
+
     cout<<"Enter the key : ";
     cin >> key;
     //calling the search funciton
